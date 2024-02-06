@@ -36,3 +36,6 @@ func main() {
 
 	fmt.Println("Uppercase to lowercase conversion complete.")
 }
+
+//to run the programm 'go run go_lower 'file_path' on terminal
+// which will make all the uppercase letter to lowercase
