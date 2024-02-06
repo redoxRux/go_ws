@@ -1,1 +1,3 @@
-hello, this is simple, hello
+Hello, this is simple
+
+You can just run this program;
